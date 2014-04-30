@@ -9,3 +9,5 @@ TODO:
 
 Organize the project. Allow the user to choose a server
 with command line args.
+
+Project is currently on hold due to lack of asynchronous i/o in Rust.
